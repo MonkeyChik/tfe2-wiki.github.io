@@ -1,0 +1,31 @@
+---
+Resources
+---
+
+The main goal is to build a fully functioning colony on all new planets. As such you will need Resources.
+
+There are **seven** resources in the game.
+
+### Food
+Obtained from Indoor [Farms], Eco farms, Experimental farms, and Community Houses. Every day, adult citizens eat 1 food, and children eat 1/2 food. If you run out of food, your citizens will gradually lose happiness, therefore working slower.
+
+### Wood
+Obtained from cutting trees in the overworld or tree plantations. Used to build most buildings.
+
+### Stone
+Obtained from mining rocks in the overworld or rocks from the [Rock Teleporter]. Used to build many [Production] buildings. Also used to create Machine Parts and Refined Metals.
+
+### Knowledge
+Obtained from [Lab] buildings, [Exploration Centers], [Workshops], Observatory, etc. That is used to research buildings and upgrades as one-time cost.
+
+### Machine Parts
+Obtained from [Machine Parts Factories] and uses stone, Wood for the Workshop. Used to build machines and advanced buildings.
+
+### Refined Metals
+Obtained from [Refined Metals Factory] buildings and use stone. Used to build advanced buildings and create computer chips.
+
+### Computer Chips
+Obtained from [Computer Chips Factories] and use refined metals. Used to build several late-game buildings.
+
+
+[The Machine] can also generate random amounts of any resource if you have it. A Community House can generate either Food, Wood, or Stone depending on the player's choice.
